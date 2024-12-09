@@ -1,0 +1,11 @@
+.box {
+    width: 200px;
+    height: 200px;
+    margin: 2%
+}
+.box-key {
+    width: 200px;
+    height: 200px;
+    margin: 2%;
+    border: 1px solid black;
+}
